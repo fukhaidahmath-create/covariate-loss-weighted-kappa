@@ -1,0 +1,26 @@
+# Local RStudio session files and caches
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Locally generated outputs. Preserved archival results are on Zenodo.
+results/
+figures/
+new_results*/
+new_figures/
+new_V14*/
+*.Rout
+.Rcheck/
+
+# Compressed distributions; publish only browsable source and small inputs here.
+*.zip
+*.7z
+*.rar

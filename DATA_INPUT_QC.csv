@@ -1,0 +1,5 @@
+dataset_file,rows,columns,disease_positive,test1_positive,test2_positive,test_discordant,missing_cells,sha256
+data/cervical_858_age_biopsy_hinselmann_schiller.csv,858,4,55,35,74,41,0,a443643d22f86bf7ee42fd11d25970bb2bbcc59fe73329059ab447fc9e50b78e
+data/crc_diabetes_168_fit_fobt_biopsy.csv,168,4,100,91,75,22,0,7e93dcc10841c0b82b62447f91ec19419b0c9300ab2b5156636c0791c2747657
+data/heart_cleveland_301_age_cad_exercise_ecg_thallium.csv,301,5,138,136,135,103,0,0758acde79761306c0a36ee88932d550d863d95c810e352401ed20e233f3abdd
+data/heart_cleveland_301_extended.csv,301,11,138,136,135,103,0,fdc1b52df92fe1f504b71e7bb992a29486dee8e47b567f0773e3b6996969cbee

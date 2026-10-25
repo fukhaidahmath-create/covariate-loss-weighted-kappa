@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the fixed, published Zenodo release listed here."
+title: "Covariate-Dependent Loss-Weighted Kappa for Comparing Paired Binary Diagnostic Tests: R Code and Reproducibility Materials"
+type: software
+authors:
+  - family-names: "Fkhadah"
+    given-names: "Ismail Radi Ismail"
+    affiliation: "University of Granada, Granada, Spain"
+    orcid: "https://orcid.org/0009-0004-4092-7836"
+version: "1.3.0"
+date-released: 2026-10-25
+doi: 10.5281/zenodo.23628904
+repository-code: "https://github.com/fukhaidahmath-create/covariate-loss-weighted-kappa"
+url: "https://doi.org/10.5281/zenodo.23628904"
+license: MIT
+keywords:
+  - paired binary diagnostic tests
+  - loss-weighted kappa
+  - cross-fitting
+  - covariate-dependent misclassification losses
+  - reproducibility
